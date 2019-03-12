@@ -1,0 +1,68 @@
+rofi.font: xos4\, Terminus 14
+rofi.color-window: argb:80191919, argb:60181818
+rofi.color-normal: argb:0095C7AE, #A09894, argb:0095C7AE, argb:80101218
+rofi.padding: 400
+rofi.separator-style: none
+
+! ------------------------------------------------------------------------------
+! URxvt Color theme
+! ------------------------------------------------------------------------------
+
+! ------------------------------------------------------------------------------
+! URxvt Color theme
+! ------------------------------------------------------------------------------
+URxvt*font: xft:Source Code Pro:pixelsize=13:antialias=true:autohinting=true,xft:Noto Emoji
+URxvt*scrollBar: false
+URxvt.intensityStyles: false
+URxvt.transparent:   false
+URxvt.depth: 24
+ 
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+ 
+URxvt.perl-ext-common: default,matcher,fullscreen,clipboard
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+URxvt.keysym.F11: perl:fullscreen:switch
+URxvt.resize-font.smaller: C-Down
+URxvt.resize-font.bigger: C-Up
+URxvt.secondaryWheel: 1
+URxvt.internalBorder:  5
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+URxvt.iso14755: False
+URxvt.keysym.Control-Up:   \033[1;5A
+URxvt.keysym.Control-Down:    \033[1;5B
+URxvt.keysym.Control-Left:    \033[1;5D
+URxvt.keysym.Control-Right:    \033[1;5C
+URxvt*scrollBar: false
+URxvt.intensityStyles: false
+URxvt.transparent:   false
+URxvt.depth: 24
+ 
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+ 
+URxvt.perl-ext-common: default,matcher,fullscreen,clipboard
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+URxvt.keysym.F11: perl:fullscreen:switch
+URxvt.resize-font.smaller: C-Down
+URxvt.resize-font.bigger: C-Up
+URxvt.secondaryWheel: 1
+URxvt.internalBorder:  5
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+URxvt.iso14755: False
+URxvt.keysym.Control-Up:   \033[1;5A
+URxvt.keysym.Control-Down:    \033[1;5B
+URxvt.keysym.Control-Left:    \033[1;5D
+URxvt.keysym.Control-Right:    \033[1;5C
